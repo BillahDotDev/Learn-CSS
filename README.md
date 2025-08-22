@@ -152,7 +152,7 @@
 
 
   
-## How Does CSS Work?
+## How Does CSS Work? 
 CSS controls the visual appearance of HTML elements by associating CSS rules with HTML elements. A CSS rule typically consists of:
 
 1. Selectors: Identify the HTML elements you want to style.
