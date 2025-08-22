@@ -108,6 +108,7 @@
 100. Content Property: Used with pseudo-elements to insert generated content.
 
 
+
 ## What does the CSS code look like?
 
         * {
